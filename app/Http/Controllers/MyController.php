@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use app\Models\katalog;
 
 class MyController extends Controller
 {
@@ -11,6 +12,8 @@ class MyController extends Controller
     }
 
     function katalog(){
+
+        
         return view('katalog');
     }
 }
