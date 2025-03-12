@@ -16,17 +16,17 @@
         <div class="mx-auto max-w-7xl px-6 lg:px-8 bg-gray-900/50">
             <div class="mx-auto max-w-2xl lg:mx-0">
                 <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Welcome to Toko Tiga Bingtang</h2>
-                <p class="mt-8 text-lg font-medium text-pretty sm:text-xl/8 text-gray-200">Kita menjual berbagai macam perhiasan unik dan emas dari yang ringan 0,1gr hingga berat 100gr</p>
+                <p class="mt-8 text-lg font-medium text-pretty sm:text-xl/8 text-gray-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque impedit ipsa libero unde accusantium aliquid quibusdam deleniti totam adipisci sit eum, voluptatum recusandae tempore quidem doloremque, aperiam autem quo. Molestiae!</p>
             </div>
         
             <div class="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
                 <dl class="mt-16 grid grid-cols-1 gap-8 sm:mt-20 sm:grid-cols-2 lg:grid-cols-4">
                     <div class="flex flex-col-reverse gap-1">
-                        <dt class="text-base/7 text-gray-300">open since</dt>
+                        <dt class="text-base/7 text-gray-300">Open since</dt>
                         <dd class="text-4xl font-semibold tracking-tight text-white">2004</dd>
                     </div>
                     <div class="flex flex-col-reverse gap-1">
-                        <dt class="text-base/7 text-gray-300">shop open time</dt>
+                        <dt class="text-base/7 text-gray-300">Shop open time</dt>
                         <dd class="text-4xl font-semibold tracking-tight text-white">11:00 - 17:00</dd>
                     </div>
                     <div class="flex flex-col-reverse gap-1">

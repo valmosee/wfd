@@ -5,7 +5,7 @@
                 <ul class="md:flex items-center justify-between text-base text-white pt-4 md:pt-0">
                     <li><a class="md:p-4 py-3 px-0 block text-rose-500" href="/">Home</a></li>
                     <li><a class="md:p-4 py-3 px-0 block" href="katalog">Katalog</a></li>
-                    <li><a class="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="#">About Us</a></li>
+                    <li><a class="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="about_us">About Us</a></li>
                 </ul>
             </nav>
         </div>
